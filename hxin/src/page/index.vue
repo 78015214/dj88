@@ -813,21 +813,535 @@
                                             <div class="tab_head_item active">
                                                 <a href="" class="top_tab_lk">手机</a>
                                             </div>
-                                            <div class="tab_head_item"></div>
-                                            <div class=""></div>
-                                            <div class=""></div>
+                                            <div class="tab_head_item ">
+                                                <a href="" class="top_tab_lk">手机</a>
+                                            </div>
+                                            <div class="tab_head_item ">
+                                                <a href="" class="top_tab_lk">手机</a>
+                                            </div>
+                                            <div class="tab_head_item ">
+                                                <a href="" class="top_tab_lk">手机</a>
+                                            </div>
+
                                         </div>
+                                        <div class="tab_body">
+                                            <div class="tab_body_item">
+                                                <div class="new_top_list">
+                                                    <div class="top_item new_top_item_1">
+                                                        <a class="top_item_lk" href="">
+                                                            <div class="lazyimg lazyimg_loaded top_item_img">
+                                                                <img class="lazyimg_img" src="../assets/imgs/f9ad9.jpg" alt="">
+                                                            </div>
+                                                            <div class="top_item_rank top_item_rank_1">
+                                                                <span class="top_item_rank_top">TOP</span>
+                                                                <span class="top_item_rank_num">
+                                                                    01</span>
+                                                            </div>
+                                                            <span class="top_item_name">步云纳米除臭留香鞋垫男女除臭祛汗防臭吸汗香型防臭鞋垫 【10双】经典款1101 45</span>
+                                                        </a>
+                                                    </div>
+                                                    <div class="top_item new_top_item_2">
+                                                        <a class="top_item_lk" href="">
+                                                            <div class="lazyimg lazyimg_loaded top_item_img">
+                                                                <img class="lazyimg_img" src="../assets/imgs/f9ad9.jpg" alt="">
+                                                            </div>
+                                                            <div class="top_item_rank top_item_rank_1">
+                                                                <span class="top_item_rank_top">TOP</span>
+                                                                <span class="top_item_rank_num">
+                                                                    02</span>
+                                                            </div>
+                                                            <span class="top_item_name">步云纳米除臭留香鞋垫男女除臭祛汗防臭吸汗香型防臭鞋垫 【10双】经典款1101 45</span>
+                                                        </a>
+                                                    </div>
+                                                    <div class="top_item new_top_item_3">
+                                                        <a class="top_item_lk" href="">
+                                                            <div class="lazyimg lazyimg_loaded top_item_img">
+                                                                <img class="lazyimg_img" src="../assets/imgs/f9ad9.jpg" alt="">
+                                                            </div>
+                                                            <div class="top_item_rank top_item_rank_1">
+                                                                <span class="top_item_rank_top">TOP</span>
+                                                                <span class="top_item_rank_num">
+                                                                    03</span>
+                                                            </div>
+                                                            <span class="top_item_name">步云纳米除臭留香鞋垫男女除臭祛汗防臭吸汗香型防臭鞋垫 【10双】经典款1101 45</span>
+                                                        </a>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div id="J_nice-shop" class="box nice-shop">
+                            <div class="box_hd">
+                                <a href="" class="box_hd_lk">
+                                    <h3 class="box_tit">排行榜</h3>
+                                    <i class="box_hd_arrow"></i>
+                                </a>
+                            </div>
+                            <div class="box_bd">
+                               <div class="nice-shop__container">
+                                   <a class="shop-item shop-item--bg-7" href="">
+                                       <div class="shop-item__info">
+                                           <div class="item-title">米其林轮胎京东自营旗舰店sdjgjhkjhgkjjgjh</div>
+                                           <div class="item-tags">
+                                               <span class="text-tag text-tag--origin">自营</span>
+                                               <span class="text-tag text-tag--theme">极速狂飙</span>
+                                           </div>
+                                           <div class="item-social">57.2万人关注</div>
+                                       </div>
+                                       <div class="shop-item__cover">
+                                           <img src="../assets/imgs/6df.jpg" alt="">
+                                       </div>
+                                   </a>
+                                   <a class="shop-item shop-item--bg-7" href="">
+                                       <div class="shop-item__info">
+                                           <div class="item-title">米其林轮胎京东自营旗舰店sdjgjhkjhgkjjgjh</div>
+                                           <div class="item-tags">
+                                               <span class="text-tag text-tag--origin">自营</span>
+                                               <span class="text-tag text-tag--theme">极速狂飙</span>
+                                           </div>
+                                           <div class="item-social">57.2万人关注</div>
+                                       </div>
+                                       <div class="shop-item__cover">
+                                           <img src="../assets/imgs/6df.jpg" alt="">
+                                       </div>
+                                   </a>
+                               </div>
+                            </div>
+                        </div>
+                        <div id="J_coupon" class="box coupon box_last">
+                            <div class="box_hd">
+                                <a href="" class="box_hd_lk">
+                                    <h3 class="box_tit">排行榜</h3>
+                                    <i class="box_hd_arrow"></i>
+                                </a>
+                            </div>
+                            <div class="box_bd">
+                                <div class="coupon_inner">
+                                    <div class="coupon_list">
+                                        <div class="coupon_item coupon_item_1">
+                                            <a class="coupon_lk" href="">
+                                                <div class="coupon_lk_wrap">
+                                                    <div class="lazyimg lazyimg_loaded coupon_img">
+                                                        <img class="lazyimg_img" src="../assets/imgs/6679a.jpg" alt="">
+                                                    </div>
+                                                    <div class="coupon_info">
+                                                        <div class="mod_price coupon_price">
+                                                            <i>￥</i>
+                                                            <span>1200</span>
+                                                        </div>
+                                                        <div class="coupon_limit">满8000元可用</div>
+                                                        <div class="coupon_desc">仅可购买指定iPhone 11 Pro商品</div>
+                                                    </div>
+                                                </div>
+                                                <div class="coupon_more">
+                                                    <div class="coupon_more_inner">更多好券</div>
+                                                    <div class="iconfont iconxiala1 coupon_more_arrow"></div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <div class="coupon_item coupon_item_1">
+                                            <a class="coupon_lk" href="">
+                                                <div class="coupon_lk_wrap">
+                                                    <div class="lazyimg lazyimg_loaded coupon_img">
+                                                        <img class="lazyimg_img" src="../assets/imgs/6679a.jpg" alt="">
+                                                    </div>
+                                                    <div class="coupon_info">
+                                                        <div class="mod_price coupon_price">
+                                                            <i>￥</i>
+                                                            <span>1200</span>
+                                                        </div>
+                                                        <div class="coupon_limit">满8000元可用</div>
+                                                        <div class="coupon_desc">仅可购买指定iPhone 11 Pro商品</div>
+                                                    </div>
+                                                </div>
+                                                <div class="coupon_more">
+                                                    <div class="coupon_more_inner">更多好券</div>
+                                                    <div class="iconfont iconxiala1 coupon_more_arrow"></div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <div class="coupon_item coupon_item_1">
+                                            <a class="coupon_lk" href="">
+                                                <div class="coupon_lk_wrap">
+                                                    <div class="lazyimg lazyimg_loaded coupon_img">
+                                                        <img class="lazyimg_img" src="../assets/imgs/6679a.jpg" alt="">
+                                                    </div>
+                                                    <div class="coupon_info">
+                                                        <div class="mod_price coupon_price">
+                                                            <i>￥</i>
+                                                            <span>1200</span>
+                                                        </div>
+                                                        <div class="coupon_limit">满8000元可用</div>
+                                                        <div class="coupon_desc">仅可购买指定iPhone 11 Pro商品</div>
+                                                    </div>
+                                                </div>
+                                                <div class="coupon_more">
+                                                    <div class="coupon_more_inner">更多好券</div>
+                                                    <div class="iconfont iconxiala1 coupon_more_arrow"></div>
+                                                </div>
+                                            </a>
+                                        </div>
+
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div id="J_nice-shop" class="box nice-shop"></div>
-                        <div id="J_coupon" class="box coupon box_last"></div>
                     </div>
                 </div>
             </div>
-        </div>
+            <div id="J_channels" class="jd_container" aria-label="频道广场">
+                <div class="channelsB">
+                    <div class="floorhd">
+                        <div class="grid_c1 floorhd_inner">
+                            <h3 class="floorhd_tit">频道广场</h3>
+                        </div>
+                    </div>
+                    <div class="channels_block channels_block_1">
+                        <div class="channels_block_wrapper">
+                            <div class="channels_item channels_item_1">
+                                <a class="channels_item_link" href="">
+                                    <div class="lazyimg lazyimg_loaded channels_item_img">
+                                        <img class="lazyimg_img" src="../assets/imgs/e8f0.jpg" alt="">
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="channels_item channels_item_2">
+                                <a class="channels_item_link" href="">
+                                    <div class="lazyimg lazyimg_loaded channels_item_img">
+                                        <img class="lazyimg_img" src="../assets/imgs/e8f0.jpg" alt="">
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="channels_item channels_item_3">
+                                <a class="channels_item_title" href="">
+                                    <span class="channels_item_title_main">企业购</span>
+                                    <span class="channels_item_title_aside">一站式企业采购平台</span>
+                                </a>
+                                <div class="channels_item_imgs">
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/e5493.jpg" alt="">
+                                        </div>
+                                    </a>
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/db8d23f.jpg" alt="">
+                                        </div>
+                                    </a>
 
+                                </div>
+                            </div>
+                            <div class="channels_item channels_item_4">
+                                <a class="channels_item_title" href="">
+                                    <span class="channels_item_title_main">企业购</span>
+                                    <span class="channels_item_title_aside">一站式企业采购平台</span>
+                                </a>
+                                <div class="channels_item_imgs">
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/e5493.jpg" alt="">
+                                        </div>
+                                    </a>
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/db8d23f.jpg" alt="">
+                                        </div>
+                                    </a>
+
+                                </div>
+                            </div>
+                            <div class="channels_item channels_item_5">
+                                <a class="channels_item_title" href="">
+                                    <span class="channels_item_title_main">企业购</span>
+                                    <span class="channels_item_title_aside">一站式企业采购平台</span>
+                                </a>
+                                <div class="channels_item_imgs">
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/e5493.jpg" alt="">
+                                        </div>
+                                    </a>
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/db8d23f.jpg" alt="">
+                                        </div>
+                                    </a>
+
+                                </div>
+                            </div>
+                            <div class="channels_item channels_item_6">
+                                <a class="channels_item_title" href="">
+                                    <span class="channels_item_title_main">企业购</span>
+                                    <span class="channels_item_title_aside">一站式企业采购平台</span>
+                                </a>
+                                <div class="channels_item_imgs">
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/e5493.jpg" alt="">
+                                        </div>
+                                    </a>
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/db8d23f.jpg" alt="">
+                                        </div>
+                                    </a>
+
+                                </div>
+                            </div>
+                            <div class="channels_item channels_item_7">
+                                <a class="channels_item_title" href="">
+                                    <span class="channels_item_title_main">企业购</span>
+                                    <span class="channels_item_title_aside">一站式企业采购平台</span>
+                                </a>
+                                <div class="channels_item_imgs">
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/e5493.jpg" alt="">
+                                        </div>
+                                    </a>
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/db8d23f.jpg" alt="">
+                                        </div>
+                                    </a>
+
+                                </div>
+                            </div>
+                            <div class="channels_item channels_item_8">
+                                <a class="channels_item_title" href="">
+                                    <span class="channels_item_title_main">企业购</span>
+                                    <span class="channels_item_title_aside">一站式企业采购平台</span>
+                                </a>
+                                <div class="channels_item_imgs">
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/e5493.jpg" alt="">
+                                        </div>
+                                    </a>
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/db8d23f.jpg" alt="">
+                                        </div>
+                                    </a>
+
+                                </div>
+                            </div>
+                            <div class="channels_item channels_item_9">
+                                <a class="channels_item_title" href="">
+                                    <span class="channels_item_title_main">企业购</span>
+                                    <span class="channels_item_title_aside">一站式企业采购平台</span>
+                                </a>
+                                <div class="channels_item_imgs">
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/e5493.jpg" alt="">
+                                        </div>
+                                    </a>
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/db8d23f.jpg" alt="">
+                                        </div>
+                                    </a>
+
+                                </div>
+                            </div>
+                            <div class="channels_item channels_item_10">
+                                <a class="channels_item_title" href="">
+                                    <span class="channels_item_title_main">企业购</span>
+                                    <span class="channels_item_title_aside">一站式企业采购平台</span>
+                                </a>
+                                <div class="channels_item_imgs">
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/e5493.jpg" alt="">
+                                        </div>
+                                    </a>
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/db8d23f.jpg" alt="">
+                                        </div>
+                                    </a>
+
+                                </div>
+                            </div>
+                            <div class="channels_item channels_item_11">
+                                <a class="channels_item_title" href="">
+                                    <span class="channels_item_title_main">企业购</span>
+                                    <span class="channels_item_title_aside">一站式企业采购平台</span>
+                                </a>
+                                <div class="channels_item_imgs">
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/e5493.jpg" alt="">
+                                        </div>
+                                    </a>
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/db8d23f.jpg" alt="">
+                                        </div>
+                                    </a>
+
+                                </div>
+                            </div>
+                            <div class="channels_item channels_item_12">
+                                <a class="channels_item_title" href="">
+                                    <span class="channels_item_title_main">企业购</span>
+                                    <span class="channels_item_title_aside">一站式企业采购平台</span>
+                                </a>
+                                <div class="channels_item_imgs">
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/e5493.jpg" alt="">
+                                        </div>
+                                    </a>
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/db8d23f.jpg" alt="">
+                                        </div>
+                                    </a>
+
+                                </div>
+                            </div>
+                            <div class="channels_item channels_item_13">
+                                <a class="channels_item_title" href="">
+                                    <span class="channels_item_title_main">企业购</span>
+                                    <span class="channels_item_title_aside">一站式企业采购平台</span>
+                                </a>
+                                <div class="channels_item_imgs">
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/e5493.jpg" alt="">
+                                        </div>
+                                    </a>
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/db8d23f.jpg" alt="">
+                                        </div>
+                                    </a>
+
+                                </div>
+                            </div>
+                            <div class="channels_item channels_item_14">
+                                <a class="channels_item_title" href="">
+                                    <span class="channels_item_title_main">企业购</span>
+                                    <span class="channels_item_title_aside">一站式企业采购平台</span>
+                                </a>
+                                <div class="channels_item_imgs">
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/e5493.jpg" alt="">
+                                        </div>
+                                    </a>
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/db8d23f.jpg" alt="">
+                                        </div>
+                                    </a>
+
+                                </div>
+                            </div>
+                            <div class="channels_item channels_item_15">
+                                <a class="channels_item_title" href="">
+                                    <span class="channels_item_title_main">企业购</span>
+                                    <span class="channels_item_title_aside">一站式企业采购平台</span>
+                                </a>
+                                <div class="channels_item_imgs">
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/e5493.jpg" alt="">
+                                        </div>
+                                    </a>
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/db8d23f.jpg" alt="">
+                                        </div>
+                                    </a>
+
+                                </div>
+                            </div>
+                            <div class="channels_item channels_item_16">
+                                <a class="channels_item_title" href="">
+                                    <span class="channels_item_title_main">企业购</span>
+                                    <span class="channels_item_title_aside">一站式企业采购平台</span>
+                                </a>
+                                <div class="channels_item_imgs">
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/e5493.jpg" alt="">
+                                        </div>
+                                    </a>
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/db8d23f.jpg" alt="">
+                                        </div>
+                                    </a>
+
+                                </div>
+                            </div>
+                            <div class="channels_item channels_item_17">
+                                <a class="channels_item_title" href="">
+                                    <span class="channels_item_title_main">企业购</span>
+                                    <span class="channels_item_title_aside">一站式企业采购平台</span>
+                                </a>
+                                <div class="channels_item_imgs">
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/e5493.jpg" alt="">
+                                        </div>
+                                    </a>
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/db8d23f.jpg" alt="">
+                                        </div>
+                                    </a>
+
+                                </div>
+                            </div>
+                            <div class="channels_item channels_item_18">
+                                <a class="channels_item_title" href="">
+                                    <span class="channels_item_title_main">企业购</span>
+                                    <span class="channels_item_title_aside">一站式企业采购平台</span>
+                                </a>
+                                <div class="channels_item_imgs">
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/e5493.jpg" alt="">
+                                        </div>
+                                    </a>
+                                    <a class="channels_item_link" href="">
+                                        <div class="lazyimg lazyimg_loaded channels_item_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/db8d23f.jpg" alt="">
+                                        </div>
+                                    </a>
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="J_feeds">
+                <div class="more2">
+                    <div class="floorhd">
+                        <div class="grid_c1 floorhd_inner">
+                            <h3 class="floorhd_tit">为你推荐</h3>
+                        </div>
+                    </div>
+                    <div class="grid_c1 feed-tab-wrapper">
+                        <url class="feed-tab">
+
+                        </url>
+                    </div>
+                    <div class="grid_c1 more2_inner"></div>
+                </div>
+            </div>
+        </div>
     </div>
 </template>
 
