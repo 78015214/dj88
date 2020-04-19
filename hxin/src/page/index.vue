@@ -1334,14 +1334,707 @@
                         </div>
                     </div>
                     <div class="grid_c1 feed-tab-wrapper">
-                        <url class="feed-tab">
-
+                        <url class="feed-tabq">
+                            <li id="feedTab0" class="feed-tab__item feed-tab__item--active">
+                                <div class="feed-tab__item-title">
+                                    <span class="feed-tab__item-title-text">精选</span>
+                                </div>
+                                <div class="feed-tab__item-desc">猜你喜欢</div>
+                                <div class="feed-tab__item-gap"></div>
+                            </li>
+                            <li id="feedTab1" class="feed-tab__item feed-tab__item--active">
+                                <div class="feed-tab__item-title">
+                                    <span class="feed-tab__item-title-text">精选</span>
+                                </div>
+                                <div class="feed-tab__item-desc">猜你喜欢</div>
+                                <div class="feed-tab__item-gap"></div>
+                            </li>
+                            <li id="feedTab2" class="feed-tab__item feed-tab__item--active">
+                                <div class="feed-tab__item-title">
+                                    <span class="feed-tab__item-title-text">精选</span>
+                                </div>
+                                <div class="feed-tab__item-desc">猜你喜欢</div>
+                                <div class="feed-tab__item-gap"></div>
+                            </li>
+                            <li id="feedTab3" class="feed-tab__item feed-tab__item--active">
+                                <div class="feed-tab__item-title">
+                                    <span class="feed-tab__item-title-text">精选</span>
+                                </div>
+                                <div class="feed-tab__item-desc">猜你喜欢</div>
+                                <div class="feed-tab__item-gap"></div>
+                            </li>
+                            <li id="feedTab4" class="feed-tab__item feed-tab__item--active">
+                                <div class="feed-tab__item-title">
+                                    <span class="feed-tab__item-title-text">精选</span>
+                                </div>
+                                <div class="feed-tab__item-desc">猜你喜欢</div>
+                                <div class="feed-tab__item-gap"></div>
+                            </li>
+                            <li id="feedTab5" class="feed-tab__item feed-tab__item--active">
+                                <div class="feed-tab__item-title">
+                                    <span class="feed-tab__item-title-text">精选</span>
+                                </div>
+                                <div class="feed-tab__item-desc">猜你喜欢</div>
+<!--                                <div class="feed-tab__item-gap"></div>-->
+                            </li>
                         </url>
                     </div>
-                    <div class="grid_c1 more2_inner"></div>
+                    <div class="grid_c1 more2_inner">
+                        <div class="lij">
+                            <ul id="feedContent0" class="more2_list clearfix box2">
+                                <li class="more2_item more2_item_good hover-on ">
+                                    <span class="more2_item_gdot"></span>
+                                    <a class="more2_lk" href="">
+                                        <div class="lazyimg lazyimg_loaded more2_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/d5814.jpg" alt="">
+                                        </div>
+                                        <div class="more2_info">
+                                            <p class="more2_info_name">
+                                                金利来 男士内裤 男莫代尔冰丝透气平角短裤四角裤夏季新款 91218 4条装-黑色/宝蓝/深灰/浅灰 2XL(180/105)
+                                            </p>
+                                            <div class="more2_info_price more2_info_price_plus more2_info_price_newcomer">
+                                                <div class="mod_price">
+                                                    <i>￥</i>
+                                                    <span class="more2_info_price_txt">119.00</span>
+                                                </div>
+                                                <div class="more2_price_plus">
+                                                    <div class="more2_discount">券</div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="more2_item_hover">
+                                            <div class="more2_item_delete" title="不喜欢"></div>
+                                            <div class="more2_item_hd">
+                                                <div class="more2_item_btn more2_btn_find enable">
+                                                    <i class="more2_btn_icon"></i>
+                                                    <span>找相似</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="more2_item more2_item_good hover-on ">
+                                    <span class="more2_item_gdot"></span>
+                                    <a class="more2_lk" href="">
+                                        <div class="lazyimg lazyimg_loaded more2_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/d5814.jpg" alt="">
+                                        </div>
+                                        <div class="more2_info">
+                                            <p class="more2_info_name">
+                                                金利来 男士内裤 男莫代尔冰丝透气平角短裤四角裤夏季新款 91218 4条装-黑色/宝蓝/深灰/浅灰 2XL(180/105)
+                                            </p>
+                                            <div class="more2_info_price more2_info_price_plus more2_info_price_newcomer">
+                                                <div class="mod_price">
+                                                    <i>￥</i>
+                                                    <span class="more2_info_price_txt">119.00</span>
+                                                </div>
+                                                <div class="more2_price_plus">
+                                                    <div class="more2_discount">券</div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="more2_item_hover">
+                                            <div class="more2_item_delete" title="不喜欢"></div>
+                                            <div class="more2_item_hd">
+                                                <div class="more2_item_btn more2_btn_find enable">
+                                                    <i class="more2_btn_icon"></i>
+                                                    <span>找相似</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="more2_item more2_item_good hover-on ">
+                                    <span class="more2_item_gdot"></span>
+                                    <a class="more2_lk" href="">
+                                        <div class="lazyimg lazyimg_loaded more2_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/d5814.jpg" alt="">
+                                        </div>
+                                        <div class="more2_info">
+                                            <p class="more2_info_name">
+                                                金利来 男士内裤 男莫代尔冰丝透气平角短裤四角裤夏季新款 91218 4条装-黑色/宝蓝/深灰/浅灰 2XL(180/105)
+                                            </p>
+                                            <div class="more2_info_price more2_info_price_plus more2_info_price_newcomer">
+                                                <div class="mod_price">
+                                                    <i>￥</i>
+                                                    <span class="more2_info_price_txt">119.00</span>
+                                                </div>
+                                                <div class="more2_price_plus">
+                                                    <div class="more2_discount">券</div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="more2_item_hover">
+                                            <div class="more2_item_delete" title="不喜欢"></div>
+                                            <div class="more2_item_hd">
+                                                <div class="more2_item_btn more2_btn_find enable">
+                                                    <i class="more2_btn_icon"></i>
+                                                    <span>找相似</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="more2_item more2_item_good hover-on ">
+                                    <span class="more2_item_gdot"></span>
+                                    <a class="more2_lk" href="">
+                                        <div class="lazyimg lazyimg_loaded more2_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/d5814.jpg" alt="">
+                                        </div>
+                                        <div class="more2_info">
+                                            <p class="more2_info_name">
+                                                金利来 男士内裤 男莫代尔冰丝透气平角短裤四角裤夏季新款 91218 4条装-黑色/宝蓝/深灰/浅灰 2XL(180/105)
+                                            </p>
+                                            <div class="more2_info_price more2_info_price_plus more2_info_price_newcomer">
+                                                <div class="mod_price">
+                                                    <i>￥</i>
+                                                    <span class="more2_info_price_txt">119.00</span>
+                                                </div>
+                                                <div class="more2_price_plus">
+                                                    <div class="more2_discount">券</div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="more2_item_hover">
+                                            <div class="more2_item_delete" title="不喜欢"></div>
+                                            <div class="more2_item_hd">
+                                                <div class="more2_item_btn more2_btn_find enable">
+                                                    <i class="more2_btn_icon"></i>
+                                                    <span>找相似</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="more2_item more2_item_good hover-on ">
+                                    <span class="more2_item_gdot"></span>
+                                    <a class="more2_lk" href="">
+                                        <div class="lazyimg lazyimg_loaded more2_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/d5814.jpg" alt="">
+                                        </div>
+                                        <div class="more2_info">
+                                            <p class="more2_info_name">
+                                                金利来 男士内裤 男莫代尔冰丝透气平角短裤四角裤夏季新款 91218 4条装-黑色/宝蓝/深灰/浅灰 2XL(180/105)
+                                            </p>
+                                            <div class="more2_info_price more2_info_price_plus more2_info_price_newcomer">
+                                                <div class="mod_price">
+                                                    <i>￥</i>
+                                                    <span class="more2_info_price_txt">119.00</span>
+                                                </div>
+                                                <div class="more2_price_plus">
+                                                    <div class="more2_discount">券</div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="more2_item_hover">
+                                            <div class="more2_item_delete" title="不喜欢"></div>
+                                            <div class="more2_item_hd">
+                                                <div class="more2_item_btn more2_btn_find enable">
+                                                    <i class="more2_btn_icon"></i>
+                                                    <span>找相似</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="more2_item more2_item_good hover-on ">
+                                    <span class="more2_item_gdot"></span>
+                                    <a class="more2_lk" href="">
+                                        <div class="lazyimg lazyimg_loaded more2_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/d5814.jpg" alt="">
+                                        </div>
+                                        <div class="more2_info">
+                                            <p class="more2_info_name">
+                                                金利来 男士内裤 男莫代尔冰丝透气平角短裤四角裤夏季新款 91218 4条装-黑色/宝蓝/深灰/浅灰 2XL(180/105)
+                                            </p>
+                                            <div class="more2_info_price more2_info_price_plus more2_info_price_newcomer">
+                                                <div class="mod_price">
+                                                    <i>￥</i>
+                                                    <span class="more2_info_price_txt">119.00</span>
+                                                </div>
+                                                <div class="more2_price_plus">
+                                                    <div class="more2_discount">券</div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="more2_item_hover">
+                                            <div class="more2_item_delete" title="不喜欢"></div>
+                                            <div class="more2_item_hd">
+                                                <div class="more2_item_btn more2_btn_find enable">
+                                                    <i class="more2_btn_icon"></i>
+                                                    <span>找相似</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="more2_item more2_item_good hover-on ">
+                                    <span class="more2_item_gdot"></span>
+                                    <a class="more2_lk" href="">
+                                        <div class="lazyimg lazyimg_loaded more2_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/d5814.jpg" alt="">
+                                        </div>
+                                        <div class="more2_info">
+                                            <p class="more2_info_name">
+                                                金利来 男士内裤 男莫代尔冰丝透气平角短裤四角裤夏季新款 91218 4条装-黑色/宝蓝/深灰/浅灰 2XL(180/105)
+                                            </p>
+                                            <div class="more2_info_price more2_info_price_plus more2_info_price_newcomer">
+                                                <div class="mod_price">
+                                                    <i>￥</i>
+                                                    <span class="more2_info_price_txt">119.00</span>
+                                                </div>
+                                                <div class="more2_price_plus">
+                                                    <div class="more2_discount">券</div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="more2_item_hover">
+                                            <div class="more2_item_delete" title="不喜欢"></div>
+                                            <div class="more2_item_hd">
+                                                <div class="more2_item_btn more2_btn_find enable">
+                                                    <i class="more2_btn_icon"></i>
+                                                    <span>找相似</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="more2_item more2_item_good hover-on ">
+                                    <span class="more2_item_gdot"></span>
+                                    <a class="more2_lk" href="">
+                                        <div class="lazyimg lazyimg_loaded more2_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/d5814.jpg" alt="">
+                                        </div>
+                                        <div class="more2_info">
+                                            <p class="more2_info_name">
+                                                金利来 男士内裤 男莫代尔冰丝透气平角短裤四角裤夏季新款 91218 4条装-黑色/宝蓝/深灰/浅灰 2XL(180/105)
+                                            </p>
+                                            <div class="more2_info_price more2_info_price_plus more2_info_price_newcomer">
+                                                <div class="mod_price">
+                                                    <i>￥</i>
+                                                    <span class="more2_info_price_txt">119.00</span>
+                                                </div>
+                                                <div class="more2_price_plus">
+                                                    <div class="more2_discount">券</div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="more2_item_hover">
+                                            <div class="more2_item_delete" title="不喜欢"></div>
+                                            <div class="more2_item_hd">
+                                                <div class="more2_item_btn more2_btn_find enable">
+                                                    <i class="more2_btn_icon"></i>
+                                                    <span>找相似</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="more2_item more2_item_good hover-on ">
+                                    <span class="more2_item_gdot"></span>
+                                    <a class="more2_lk" href="">
+                                        <div class="lazyimg lazyimg_loaded more2_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/d5814.jpg" alt="">
+                                        </div>
+                                        <div class="more2_info">
+                                            <p class="more2_info_name">
+                                                金利来 男士内裤 男莫代尔冰丝透气平角短裤四角裤夏季新款 91218 4条装-黑色/宝蓝/深灰/浅灰 2XL(180/105)
+                                            </p>
+                                            <div class="more2_info_price more2_info_price_plus more2_info_price_newcomer">
+                                                <div class="mod_price">
+                                                    <i>￥</i>
+                                                    <span class="more2_info_price_txt">119.00</span>
+                                                </div>
+                                                <div class="more2_price_plus">
+                                                    <div class="more2_discount">券</div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="more2_item_hover">
+                                            <div class="more2_item_delete" title="不喜欢"></div>
+                                            <div class="more2_item_hd">
+                                                <div class="more2_item_btn more2_btn_find enable">
+                                                    <i class="more2_btn_icon"></i>
+                                                    <span>找相似</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="more2_item more2_item_good hover-on ">
+                                    <span class="more2_item_gdot"></span>
+                                    <a class="more2_lk" href="">
+                                        <div class="lazyimg lazyimg_loaded more2_img">
+                                            <img class="lazyimg_img" src="../assets/imgs/d5814.jpg" alt="">
+                                        </div>
+                                        <div class="more2_info">
+                                            <p class="more2_info_name">
+                                                金利来 男士内裤 男莫代尔冰丝透气平角短裤四角裤夏季新款 91218 4条装-黑色/宝蓝/深灰/浅灰 2XL(180/105)
+                                            </p>
+                                            <div class="more2_info_price more2_info_price_plus more2_info_price_newcomer">
+                                                <div class="mod_price">
+                                                    <i>￥</i>
+                                                    <span class="more2_info_price_txt">119.00</span>
+                                                </div>
+                                                <div class="more2_price_plus">
+                                                    <div class="more2_discount">券</div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="more2_item_hover">
+                                            <div class="more2_item_delete" title="不喜欢"></div>
+                                            <div class="more2_item_hd">
+                                                <div class="more2_item_btn more2_btn_find enable">
+                                                    <i class="more2_btn_icon"></i>
+                                                    <span>找相似</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </div>
+            <div id="J_footer" class="footer">
+                <div class="mod_service">
+                    <div class="grid_c1 mod_service_inner">
+                        <ul class="mod_service_list box2">
+                            <li class="mod_service_item">
+                                <div class="mod_service_unit">
+                                    <h5 class="mod_service_tit mod_service_duo">多</h5>
+                                    <p class="mod_service_txt">品类齐全，轻松购物</p>
+                                </div>
+                            </li>
+                            <li class="mod_service_item">
+                                <div class="mod_service_unit">
+                                    <h5 class="mod_service_tit mod_service_kuai">多</h5>
+                                    <p class="mod_service_txt">品类齐全，轻松购物</p>
+                                </div>
+                            </li>
+                            <li class="mod_service_item">
+                                <div class="mod_service_unit">
+                                    <h5 class="mod_service_tit mod_service_hao">多</h5>
+                                    <p class="mod_service_txt">品类齐全，轻松购物</p>
+                                </div>
+                            </li>
+                            <li class="mod_service_item">
+                                <div class="mod_service_unit">
+                                    <h5 class="mod_service_tit mod_service_sheng">多</h5>
+                                    <p class="mod_service_txt">品类齐全，轻松购物</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="mod_help">
+                    <div class="grid_c1 mod_help_inner">
+                        <div class="mod_help_list box2">
+                            <div class="mod_help_nav">
+                                <h5 class="mod_help_nav_tit">购物指南</h5>
+                                <ul class="mod_help_nav_con">
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="mod_help_nav">
+                                <h5 class="mod_help_nav_tit">购物指南</h5>
+                                <ul class="mod_help_nav_con">
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="mod_help_nav">
+                                <h5 class="mod_help_nav_tit">购物指南</h5>
+                                <ul class="mod_help_nav_con">
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="mod_help_nav">
+                                <h5 class="mod_help_nav_tit">购物指南</h5>
+                                <ul class="mod_help_nav_con">
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="mod_help_nav">
+                                <h5 class="mod_help_nav_tit">购物指南</h5>
+                                <ul class="mod_help_nav_con">
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="mod_help_nav">
+                                <h5 class="mod_help_nav_tit">购物指南</h5>
+                                <ul class="mod_help_nav_con">
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                    <li>
+                                        <a href="" target="_blank" rel="noopener norreferrer">购物流程</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="mod_copyright">
+                    <div class="grid_c1 mod_copyright_inner">
+                        <p class="mod_copyright_links">
+                            <a class="" href="">关于我们</a>
+                            <span class="mod_copyright_split">|</span>
+                            <a class="" href="">关于我们</a>
+                            <span class="mod_copyright_split">|</span>
+                            <a class="" href="">关于我们</a>
+                            <span class="mod_copyright_split">|</span>
+                            <a class="" href="">关于我们</a>
+                            <span class="mod_copyright_split">|</span>
+                            <a class="" href="">关于我们</a>
+                            <span class="mod_copyright_split">|</span>
+                            <a class="" href="">关于我们</a>
+                            <span class="mod_copyright_split">|</span>
+                            <a class="" href="">关于我们</a>
+                            <span class="mod_copyright_split">|</span>
+                            <a class="" href="">关于我们</a>
+                            <span class="mod_copyright_split">|</span>
+                            <a class="" href="">关于我们</a>
+                            <span class="mod_copyright_split">|</span>
+                            <a class="" href="">关于我们</a>
+                            <span class="mod_copyright_split">|</span>
+                            <a class="" href="">关于我们</a>
+                            <span class="mod_copyright_split">|</span>
+                            <a class="" href="">关于我们</a>
+                            <span class="mod_copyright_split">|</span>
+                            <a class="" href="">关于我们</a>
+                            <span class="mod_copyright_split">|</span>
+                            <a class="" href="">关于我们</a>
+                            <span class="mod_copyright_split">|</span>
+                        </p>
+                        <div class="mod_copyright_info">
+                            <div class="mod_copyright_cert">
+                                <p class="dibu">
+                                    <a href="">mod_copyright_split</a>
+                                    <span class="mod_copyright_split">|</span>
+                                    <span>京ICP证070359号</span>
+                                    <span class="mod_copyright_split">|</span>
+                                    <a href="">互联网药品信息服务资格证编号(京)-经营性-2014-0008</a>
+                                    <span class="mod_copyright_split">|</span>
+                                    <span>新出发京零 字第大120007号</span>
+                                </p>
+                                <p class="dibu">
+                                    <a href="">mod_copyright_split</a>
+                                    <span class="mod_copyright_split">|</span>
+                                    <span>京ICP证070359号</span>
+                                    <span class="mod_copyright_split">|</span>
+                                    <a href="">互联网药品信息服务资格证编号(京)-经营性-2014-0008</a>
+                                    <span class="mod_copyright_split">|</span>
+                                    <span>新出发京零 字第大120007号</span>
+                                </p>
+                                <p class="dibu">
+                                    <a href="">mod_copyright_split</a>
+                                    <span class="mod_copyright_split">|</span>
+                                    <span>京ICP证070359号</span>
+                                    <span class="mod_copyright_split">|</span>
+                                    <a href="">互联网药品信息服务资格证编号(京)-经营性-2014-0008</a>
+                                    <span class="mod_copyright_split">|</span>
+                                    <span>新出发京零 字第大120007号</span>
+                                </p>
+                                <p class="dibu">
+                                    <a href="">mod_copyright_split</a>
+                                    <span class="mod_copyright_split">|</span>
+                                    <span>京ICP证070359号</span>
+                                    <span class="mod_copyright_split">|</span>
+                                    <a href="">互联网药品信息服务资格证编号(京)-经营性-2014-0008</a>
+                                    <span class="mod_copyright_split">|</span>
+                                    <span>新出发京零 字第大120007号</span>
+                                </p>
+                                <p class="dibu">
+                                    <a href="">mod_copyright_split</a>
+                                    <span class="mod_copyright_split">|</span>
+                                    <span>京ICP证070359号</span>
+                                    <span class="mod_copyright_split">|</span>
+                                    <a href="">互联网药品信息服务资格证编号(京)-经营性-2014-0008</a>
+                                    <span class="mod_copyright_split">|</span>
+                                    <span>新出发京零 字第大120007号</span>
+                                </p>
+                            </div>
+                            <div class="mod_copyright_inter"></div>
+                            <div class="mod_copyright_subsites"></div>
+                        </div>
+                        <p class="mod_copyright_auth">
+                            <a class="mod_copyright_auth_ico mod_copyright_auth_ico_2" href=""></a>
+                            <a class="mod_copyright_auth_ico mod_copyright_auth_ico_2" href=""></a>
+                            <a class="mod_copyright_auth_ico mod_copyright_auth_ico_2" href=""></a>
+                            <a class="mod_copyright_auth_ico mod_copyright_auth_ico_2" href=""></a>
+                            <a class="mod_copyright_auth_ico mod_copyright_auth_ico_2" href=""></a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="elevator elevator_fix elevator_recommend">
+                <ul class="elevator_list">
+                    <li class="elevator_item">
+                        <a class="elevator_lk" href="">
+                            <div>
+                                <span class="elevator_lk_bg"></span>
+                                <span class="elevator_lk_txt">京东秒杀</span>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="elevator_item">
+                        <a class="elevator_lk" href="">
+                            <div>
+                                <span class="elevator_lk_bg"></span>
+                                <span class="elevator_lk_txt">京东秒杀</span>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="elevator_item">
+                        <a class="elevator_lk" href="">
+                            <div>
+                                <span class="elevator_lk_bg"></span>
+                                <span class="elevator_lk_txt">京东秒杀</span>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="elevator_item">
+                        <a class="elevator_lk" href="">
+                            <div>
+                                <span class="elevator_lk_bg"></span>
+                                <span class="elevator_lk_txt">京东秒杀</span>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="elevator_item">
+                        <a class="elevator_lk" href="">
+                            <div>
+                                <span class="elevator_lk_bg"></span>
+                                <span class="elevator_lk_txt">京东秒杀</span>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="elevator_item">
+                        <a class="elevator_lk" href="">
+                            <div>
+                                <span class="elevator_lk_bg"></span>
+                                <span class="elevator_lk_txt">京东秒杀</span>
+                            </div>
+                        </a>
+                    </li>
+
+                </ul>
+                <a class="elevator_totop" href="">
+                        <span class="elevator_totop_icon"></span>
+                        <span class="elevator_totop_txt"></span>
+
+                </a>
+            </div>
         </div>
+
     </div>
 </template>
 
